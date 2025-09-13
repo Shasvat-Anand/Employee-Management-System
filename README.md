@@ -81,6 +81,12 @@ npm install
 
 ![Login Page](public/loginpage.png)
 
+### Admin Dashboard
+![Admin Dashboard](public/admindashboard.png)
+
+### Employee Dashboard
+![Employee Dashboard](public/employeedashboard.png)
+
 ## 🎯 Usage
 
 Admin logs in with admin credentials → Access Admin Dashboard → Create & assign tasks.
