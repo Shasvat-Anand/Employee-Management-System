@@ -30,6 +30,7 @@ const Tasklist = ({data}) => {
      
     </div>
   )
+  
 }
 
 export default Tasklist
